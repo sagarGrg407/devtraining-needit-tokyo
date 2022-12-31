@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_version">
+    <sys_ws_version action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <deprecated>false</deprecated>
+        <is_default>false</is_default>
+        <short_description/>
+        <sys_class_name>sys_ws_version</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-31 20:04:49</sys_created_on>
+        <sys_id>cd7abae2db0865105bec1c9705961958</sys_id>
+        <sys_name>v2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_version_cd7abae2db0865105bec1c9705961958</sys_update_name>
+        <version>2</version>
+        <version_id>v2</version_id>
+        <web_service_definition display_value="NeedIt API">8fc21266db8465105bec1c970596198c</web_service_definition>
+    </sys_ws_version>
+</record_update>
